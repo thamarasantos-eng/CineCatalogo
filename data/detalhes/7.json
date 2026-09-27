@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "diretor": "Igor Maciel",
+  "ano": 2019,
+  "duracaoMin": 112,
+  "elenco": ["Thiago Ramalho", "Vanessa Cruz"],
+  "notaMedia": 7.0,
+  "corTema": "#2f4030",
+  "sinopseCompleta": "Depois de ser dispensado da força aérea, Renato aceita escoltar um comboio de suprimentos por uma rota controlada por grupos armados. A cada posto de fronteira, ele descobre que a carga é bem mais valiosa — e perigosa — do que lhe disseram."
+}

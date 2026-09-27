@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "diretor": "Renato Piovezan",
+  "ano": 2020,
+  "duracaoMin": 101,
+  "elenco": ["Cauã Ribeiro", "Fernanda Lopes", "Diego Amaral"],
+  "notaMedia": 6.8,
+  "corTema": "#c2542f",
+  "sinopseCompleta": "Quando a avó Dona Zulmira falece, deixa apenas um caderno de receitas manuscrito como herança. Os três netos, cada um convencido de ser o preferido, disputam o caderno em uma sequência de trapaças cada vez mais absurdas."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Órbita Silenciosa",
+    "categoria": "Ficção Científica",
+    "resumo": "Uma tripulação acorda de um sono profundo e descobre que a nave está sozinha no espaço há décadas."
+  },
+  {
+    "id": 2,
+    "titulo": "Chuva de Setembro",
+    "categoria": "Drama",
+    "resumo": "Duas irmãs reencontram-se na casa da infância para decidir o destino de um terreno em disputa."
+  },
+  {
+    "id": 3,
+    "titulo": "O Reino de Lata",
+    "categoria": "Animação",
+    "resumo": "Um pequeno robô de sucata parte em busca da última fábrica de peças ainda em funcionamento."
+  },
+  {
+    "id": 4,
+    "titulo": "Última Chamada",
+    "categoria": "Suspense",
+    "resumo": "Uma operadora de call center recebe uma ligação que parece prever acidentes antes que aconteçam."
+  },
+  {
+    "id": 5,
+    "titulo": "Receita da Vovó",
+    "categoria": "Comédia",
+    "resumo": "Três primos brigam pelo caderno de receitas da avó, cada um convencido de ser o herdeiro do restaurante."
+  },
+  {
+    "id": 6,
+    "titulo": "Sótão 13",
+    "categoria": "Terror",
+    "resumo": "Uma família se muda para uma casa antiga e descobre um sótão que parece maior por dentro do que por fora."
+  },
+  {
+    "id": 7,
+    "titulo": "Fronteira de Aço",
+    "categoria": "Ação",
+    "resumo": "Um ex-piloto é recrutado para escoltar um comboio através de uma região dominada por milícias."
+  },
+  {
+    "id": 8,
+    "titulo": "Raízes do Cerrado",
+    "categoria": "Documentário",
+    "resumo": "Registro de três gerações de uma família de agricultores familiares no interior do Mato Grosso."
+  },
+  {
+    "id": 9,
+    "titulo": "A Bibliotecária das Sombras",
+    "categoria": "Fantasia",
+    "resumo": "Uma jovem bibliotecária descobre que alguns livros da seção proibida ainda estão sendo escritos."
+  },
+  {
+    "id": 10,
+    "titulo": "Cartas para Lisboa",
+    "categoria": "Romance",
+    "resumo": "Um tradutor apaixona-se por uma remetente que ele conhece apenas pelas cartas que precisa traduzir."
+  }
+]

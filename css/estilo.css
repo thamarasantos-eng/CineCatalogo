@@ -1,0 +1,68 @@
+/* Pular para o conteúdo (acessibilidade / navegação por teclado) */
+.skip-link {
+  position: absolute;
+  top: -50px;
+  left: 8px;
+  background: #0f4c81;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 4px;
+  z-index: 1050;
+  transition: top 0.2s;
+}
+.skip-link:focus {
+  top: 8px;
+}
+
+/* Foco visível consistente em toda a página */
+:focus-visible {
+  outline: 3px solid #ffb703;
+  outline-offset: 2px;
+}
+
+.hero {
+  background: linear-gradient(180deg, #eef3f8 0%, #ffffff 100%);
+}
+
+.hero-svg .engrenagem {
+  transform-origin: 120px 79px;
+  transition: transform 0.3s ease;
+}
+.hero-svg:hover .engrenagem {
+  animation: girar 3s linear infinite;
+}
+@keyframes girar {
+  to { transform: rotate(360deg); }
+}
+
+/* Cards do catálogo */
+.card-filme {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: none;
+  box-shadow: 0 2px 8px rgba(15, 76, 129, 0.12);
+}
+.card-filme:hover,
+.card-filme:focus-within {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(15, 76, 129, 0.18);
+}
+
+.poster-placeholder {
+  height: 140px;
+  border-radius: 0.375rem 0.375rem 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/* Respeita a preferência do sistema por menos movimento */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

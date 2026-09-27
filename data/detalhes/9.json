@@ -1,0 +1,10 @@
+{
+  "id": 9,
+  "diretor": "Sofia Mendonça",
+  "ano": 2024,
+  "duracaoMin": 108,
+  "elenco": ["Júlia Barros", "Henrique Costa"],
+  "notaMedia": 8.0,
+  "corTema": "#5b3a8e",
+  "sinopseCompleta": "Contratada para organizar a seção proibida de uma biblioteca centenária, Alice percebe que as páginas de certos livros mudam sozinhas durante a noite — e que alguém, ou algo, ainda está escrevendo o final da história dela."
+}

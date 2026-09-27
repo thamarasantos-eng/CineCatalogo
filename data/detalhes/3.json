@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "diretor": "Estúdio Girassol",
+  "ano": 2024,
+  "duracaoMin": 92,
+  "elenco": ["Voz: João Bittencourt", "Voz: Ana Kimura"],
+  "notaMedia": 8.6,
+  "corTema": "#c97b2e",
+  "sinopseCompleta": "Parafuso é um robô montado com peças de refugo que sonha em encontrar a fábrica que um dia produziu componentes de verdade. Sua jornada pelo Reino de Lata o coloca frente a frente com máquinas que preferem esquecer de onde vieram."
+}

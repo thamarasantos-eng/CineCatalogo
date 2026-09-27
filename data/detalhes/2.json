@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "diretor": "Eduardo Salles",
+  "ano": 2021,
+  "duracaoMin": 104,
+  "elenco": ["Luiza Prado", "Camila Fontes"],
+  "notaMedia": 7.4,
+  "corTema": "#7a5c61",
+  "sinopseCompleta": "Vinte anos depois de deixarem a fazenda da família, Helena e Cida voltam para assinar os papéis de venda do terreno. O que deveria durar um fim de semana se estende conforme segredos antigos vêm à tona junto com a chuva que não para de cair."
+}

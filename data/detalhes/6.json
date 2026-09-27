@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "diretor": "Bruno Casagrande",
+  "ano": 2023,
+  "duracaoMin": 95,
+  "elenco": ["Larissa Nogueira", "Pedro Salgado"],
+  "notaMedia": 7.2,
+  "corTema": "#4a1f2b",
+  "sinopseCompleta": "A família Torres se muda para uma casa herdada no interior e logo nota que a escada do sótão parece ter mais degraus a cada noite. Enquanto o pai insiste em ignorar os ruídos, a filha mais nova começa a desenhar o que vê lá em cima."
+}

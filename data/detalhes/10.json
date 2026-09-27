@@ -1,0 +1,10 @@
+{
+  "id": 10,
+  "diretor": "Marcelo Hauer",
+  "ano": 2018,
+  "duracaoMin": 99,
+  "elenco": ["Gabriel Antunes", "Inês Carvalho"],
+  "notaMedia": 7.6,
+  "corTema": "#8e3b5b",
+  "sinopseCompleta": "Tradutor de correspondências antigas, Nuno se apaixona pelas palavras de uma remetente desconhecida enquanto traduz cartas de décadas atrás para um museu em Lisboa. Ele decide procurá-la, mesmo sem saber se ela ainda está viva."
+}

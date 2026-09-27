@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "diretor": "Mariana Kolb",
+  "ano": 2023,
+  "duracaoMin": 118,
+  "elenco": ["Rafael Nunes", "Beatriz Andrade", "Tomás Vieira"],
+  "notaMedia": 8.1,
+  "corTema": "#0f4c81",
+  "sinopseCompleta": "Ao despertar do sono criogênico, o engenheiro de bordo Ivo percebe que os relógios da nave Auriga marcam quarenta anos a mais do que deveriam. Enquanto tenta reativar a comunicação com a Terra, ele encontra registros deixados por uma tripulação que talvez nunca tenha existido."
+}
